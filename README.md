@@ -2,6 +2,8 @@
 # Raid 02 - Crossroad
 
 Crossroad is a Z01 rust pool exercice where we have to create a traffic controle strategy.
+
+This repo is also a librairy used in smart road
 ## Installation
 
 #### First you need to install the developpement lib of sdl2.
